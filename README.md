@@ -90,7 +90,7 @@ Include predictive analytics to forecast potential business impact of AI-related
 
 
 ## Pipeline
-
+```
 The workflow is represented as a structured pipeline:
 📊 Data Analysis Pipeline
 │── 📥 Data Collection         # Gather dataset from source
