@@ -6,11 +6,11 @@ This project analyzes AI industry trends to understand how artificial intelligen
 1. [Overview](#overview)  
 2. [Dataset](#dataset)  
 3. [Analysis Process](#analysis-process)  
-4. [Pipeline](#pipeline)  
-5. [Key Insights](#key-insights)  
-6. [Visualizations](#visualizations)  
-7. [Future Improvements](#future-improvements)  
-8. [Technologies Used](#technologies-used)  
+5. [Visualizations](#visualizations)
+6. [Key Insights](#key-insights)
+7. [Future Improvements](#future-improvements)
+8. [Pipeline](#pipeline)
+9. [Technologies Used](#technologies-used)  
 
 ## Overview
 
@@ -27,7 +27,7 @@ Translating raw data into actionable business conclusions.
 
 The focus is on insights and storytelling — turning data into clear narratives for decision-makers.
 
-🔹 Dataset
+## Dataset
 
 Source: [Insert dataset source – e.g., Kaggle or custom dataset]
 
@@ -45,7 +45,7 @@ HasEvent → Binary indicator (1 = event, 0 = no event)
 
 ✅ The dataset was cleaned and structured to ensure reliability of insights.
 
-🔹 Analysis Process
+## Analysis Process
 
 The analysis was conducted in a step-by-step workflow:
 
@@ -59,6 +59,53 @@ Visualization – Generating charts and plots to support storytelling.
 
 Insight Generation – Extracting business-friendly findings from data patterns.
 
-🔹 Pipeline
+## Visualizations
+The following plots were created using Matplotlib and Seaborn:
+
+Boxplot → Revenue Growth (%) across event categories.
+
+Histogram → Distribution of stock impact for companies with vs. without AI events.
+
+Heatmap → Correlations between event presence, revenue growth, and stock impact.
+
+These visualizations were designed for clarity and business-friendly storytelling.
+
+## Key Insights
+Companies with AI-related events consistently showed higher revenue growth compared to those without.
+
+AI adoption had a positive correlation with stock market performance.
+
+Significant events (such as product launches or announcements) triggered measurable short-term business performance boosts.
+
+Data storytelling revealed that AI is not only a technology trend but also a business growth driver.
+
+## Future Improvements
+Incorporate time-series analysis to study long-term AI adoption patterns.
+
+Develop an interactive dashboard (Power BI, Tableau, or Streamlit) for executives to explore trends dynamically.
+
+Expand dataset with more industries and time periods for richer insights.
+
+Include predictive analytics to forecast potential business impact of AI-related events.
+
+
+## Pipeline
 
 The workflow is represented as a structured pipeline:
+📊 Data Analysis Pipeline
+│── 📥 Data Collection         # Gather dataset from source
+│── 🧹 Data Cleaning           # Handle missing values, duplicates, formatting
+│── 🔍 Exploratory Analysis    # Descriptive stats, distributions, correlations
+│── 📑 Feature Analysis        # Compare event vs non-event, derive insights
+│── 📊 Visualization           # Boxplots, histograms, heatmaps
+│── 📝 Reporting & Insights    # Summarize findings, document results
+
+## Technologies Used
+Python → Pandas, NumPy (data manipulation)
+
+Visualization → Matplotlib, Seaborn (charts & plots)
+
+Environment → Jupyter Notebook
+
+(Optional) → Power BI / Tableau for dashboarding
+
