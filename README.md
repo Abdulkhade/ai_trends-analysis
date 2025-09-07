@@ -99,6 +99,7 @@ The workflow is represented as a structured pipeline:
 │── 📑 Feature Analysis        # Compare event vs non-event, derive insights
 │── 📊 Visualization           # Boxplots, histograms, heatmaps
 │── 📝 Reporting & Insights    # Summarize findings, document results
+```
 
 ## Technologies Used
 Python → Pandas, NumPy (data manipulation)
