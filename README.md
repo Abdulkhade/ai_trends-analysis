@@ -108,5 +108,5 @@ Visualization → Matplotlib, Seaborn (charts & plots)
 
 Environment → Jupyter Notebook
 
-(Optional) → Power BI / Tableau for dashboarding
+
 
