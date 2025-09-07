@@ -12,7 +12,7 @@ This project analyzes AI industry trends to understand how artificial intelligen
 7. [Future Improvements](#future-improvements)  
 8. [Technologies Used](#technologies-used)  
 
-##🔹 Overview
+## Overview
 
 This project analyzes AI industry trends to evaluate how artificial intelligence events and adoption influence business revenue growth and stock market performance.
 The project highlights my data analyst skills in:
