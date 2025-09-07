@@ -31,7 +31,7 @@ The focus is on insights and storytelling — turning data into clear narratives
 
 Source: [Insert dataset source – e.g., Kaggle or custom dataset]
 
-Size: X rows × Y columns
+Size:(10959, 7) 
 
 Key Features:
 
