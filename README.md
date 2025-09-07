@@ -16,23 +16,16 @@ This project analyzes AI industry trends to understand how artificial intelligen
 
 This project analyzes AI industry trends to evaluate how artificial intelligence events and adoption influence business revenue growth and stock market performance.
 The project highlights my data analyst skills in:
-
-Collecting and cleaning real-world datasets.
-
-Conducting exploratory data analysis (EDA).
-
-Creating professional visualizations to communicate insights.
-
-Translating raw data into actionable business conclusions.
-
-The focus is on insights and storytelling — turning data into clear narratives for decision-makers.
+- Collecting and cleaning real-world datasets.
+- Conducting exploratory data analysis (EDA).
+- Creating professional visualizations to communicate insights.
+- Translating raw data into actionable business conclusions.
+- he focus is on insights and storytelling — turning data into clear narratives for decision-makers.
 
 ## Dataset
 
 Source: [Insert dataset source – e.g., Kaggle or custom dataset]
-
 Size:(10959, 7) 
-
 Key Features:
 
 Event → AI-related event type (launch, announcement, etc.)
