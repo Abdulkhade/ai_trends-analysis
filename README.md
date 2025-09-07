@@ -27,50 +27,34 @@ The project highlights my data analyst skills in:
 Source: [Insert dataset source – e.g., Kaggle or custom dataset]
 Size:(10959, 7) 
 Key Features:
-
-Event → AI-related event type (launch, announcement, etc.)
-
-AI_Revenue_Growth_% → Growth % in revenue due to AI adoption
-
-Stock_Impact_% → Change in stock performance after events
-
-HasEvent → Binary indicator (1 = event, 0 = no event)
+-Event → AI-related event type (launch, announcement, etc.)
+-AI_Revenue_Growth_% → Growth % in revenue due to AI adoption
+-Stock_Impact_% → Change in stock performance after events
+-HasEvent → Binary indicator (1 = event, 0 = no event)
 
 ✅ The dataset was cleaned and structured to ensure reliability of insights.
 
 ## Analysis Process
-
 The analysis was conducted in a step-by-step workflow:
-
-Data Cleaning – Handling missing values, removing duplicates, standardizing column formats.
-
-Descriptive Statistics – Understanding central tendency, variation, and distributions.
-
-Exploratory Data Analysis (EDA) – Identifying trends, anomalies, and relationships.
-
-Visualization – Generating charts and plots to support storytelling.
-
-Insight Generation – Extracting business-friendly findings from data patterns.
+-Data Cleaning – Handling missing values, removing duplicates, standardizing column formats.
+-Descriptive Statistics – Understanding central tendency, variation, and distributions.
+-Exploratory Data Analysis (EDA) – Identifying trends, anomalies, and relationships.
+-Visualization – Generating charts and plots to support storytelling.
+-Insight Generation – Extracting business-friendly findings from data patterns.
 
 ## Visualizations
-The following plots were created using Matplotlib and Seaborn:
-
-Boxplot → Revenue Growth (%) across event categories.
-
-Histogram → Distribution of stock impact for companies with vs. without AI events.
-
-Heatmap → Correlations between event presence, revenue growth, and stock impact.
+-The following plots were created using Matplotlib and Seaborn:
+-Boxplot → Revenue Growth (%) across event categories.
+-Histogram → Distribution of stock impact for companies with vs. without AI events.
+-Heatmap → Correlations between event presence, revenue growth, and stock impact.
 
 These visualizations were designed for clarity and business-friendly storytelling.
 
 ## Key Insights
-Companies with AI-related events consistently showed higher revenue growth compared to those without.
-
-AI adoption had a positive correlation with stock market performance.
-
-Significant events (such as product launches or announcements) triggered measurable short-term business performance boosts.
-
-Data storytelling revealed that AI is not only a technology trend but also a business growth driver.
+*Companies with AI-related events consistently showed higher revenue growth compared to those without.
+*AI adoption had a positive correlation with stock market performance.
+*Significant events (such as product launches or announcements) triggered measurable short-term business performance boosts.
+*Data storytelling revealed that AI is not only a technology trend but also a business growth driver.
 
 ## Future Improvements
 Incorporate time-series analysis to study long-term AI adoption patterns.
